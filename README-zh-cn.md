@@ -135,6 +135,9 @@ baidu_tongji_id: xxxxxxxxxxxx
 google_analytics_id: UA-xxxxxxxx # google 分析追踪id
 ```
 
+<!-- 本站总访问量<span id="busuanzi_value_site_pv"></span>次，本站访客数<span id="busuanzi_value_site_uv"></span>人次，本文总阅读量<span id="busuanzi_value_page_pv"></span>次 -->
+
+
 ## 博客主题使用方法
 
 欢迎使用这个主题，以下简单说一下使用方法。
